@@ -1,0 +1,6 @@
+/[Ii]mgs/
+*.aux
+*.log
+*.gz
+*.toc
+*.tex
